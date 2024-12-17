@@ -26,3 +26,5 @@ def even(x):
 
 print(even(5))    #A
 print(even(4))    #B
+
+print(even(10))
